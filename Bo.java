@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Bo extends GiaSuc {
     //protected String dacDiem;
+    // ok
 
     public void nhapDuLieu()
     {
